@@ -1,0 +1,22 @@
+=== Account 1 ===
+  Account No : 1001
+  Holder     : Aarav Patil
+  Balance    : Rs. 5000.00
+  Deposited 2500.00. New balance: 7500.00
+  Withdrew 1000.00. New balance: 6500.00
+  [Error] Insufficient balance. Available: 6500.00
+  Account No : 1001
+  Holder     : Aarav Patil
+  Balance    : Rs. 6500.00
+
+=== Account 2 ===
+  Account No : 1002
+  Holder     : Meera Kulkarni
+  Balance    : Rs. 12000.00
+  [Error] Deposit amount must be positive.
+  Withdrew 2000.00. New balance: 10000.00
+  Account No : 1002
+  Holder     : Meera Deshmukh
+  Balance    : Rs. 10000.00
+
+Final balances -> Account 1: 6500.00, Account 2: 10000.00
