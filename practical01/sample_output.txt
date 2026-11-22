@@ -1,0 +1,10 @@
+Enter student name: Enter age: Enter marks in 3 subjects (out of 100): 
+----- RESULT -----
+Name        : Aarav Patil
+Age         : 20 (next year: 21, age % 2 = 0)
+Total       : 225 / 300
+Average     : 75
+Percentage  : 75%
+Grade       : A
+Status      : PASS
+Needs extra help? No
